@@ -1,4 +1,4 @@
-# PDI_UFPEL
+# PDI_UFPEL_frank
 ### Hi there 👋
 
 - 🔭 Material da disciplina de Processamento Digital de Imagens. Centro de Desenvolvimento Tecnológico -  Universidade Federal de Pelotas.
